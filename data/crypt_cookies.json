@@ -1,0 +1,22 @@
+[
+    {
+        "domain": ".google.com",
+        "name": "CONSENT",
+        "value": "YES+",
+        "path": "/",
+        "expires": 1900000000,
+        "secure": true,
+        "httpOnly": false,
+        "sameSite": "Lax"
+    },
+    {
+        "domain": ".google.com",
+        "name": "SOCS",
+        "value": "CAISHAgBEhJnd3NfMjAyNDAxMjItMF9SQzEaAmVuIAEaBgiA_cqtBg",
+        "path": "/",
+        "expires": 1900000000,
+        "secure": true,
+        "httpOnly": false,
+        "sameSite": "Lax"
+    }
+]
